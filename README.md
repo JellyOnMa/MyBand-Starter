@@ -1,4 +1,4 @@
-## Trippie web
+## Trippie webb
 (URL) is een website van Jelle Stekelenburg waar gebruikers kunnen informatie en muziek kunnen vinden van de artiest Trippie Redd bedoeld voor mensen die van rap houden
 De website is enigszins te vergelijken met https://trippieredd.com/ (officiële website van artiest Trippie Redd) maar toch anders omdat (..uniek aspect..)
 
