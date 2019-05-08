@@ -1,6 +1,6 @@
 ## Trippie web
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+(URL) is een website van Jelle Stekelenburg waar gebruikers kunnen informatie en muziek kunnen vinden van de artiest Trippie Redd bedoeld voor mensen die van rap houden
+De website is enigszins te vergelijken met https://trippieredd.com/ (officiële website van artiest Trippie Redd) maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is: 
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
