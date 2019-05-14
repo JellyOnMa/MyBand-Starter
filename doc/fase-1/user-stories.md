@@ -10,7 +10,7 @@
 ##### Admins
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| B0001 | Admin | een overzicht van alle gebruikers | zodat ik deze kan beheren | | Must have | TODO |
+| B0001 | Admin | bij de content kunnen| content kan bewerken / verwijderen | | Must have | TODO |
 
 
 
