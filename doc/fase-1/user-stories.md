@@ -15,6 +15,8 @@
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | B0001 | Admin | bij de content kunnen| content kan bewerken / verwijderen | | Must have | TODO |
+| B0001 | Admin | de website kunnen bewerken | eventuële changes kan maken voor de website | | Must have | TODO |
+
 
 
 
