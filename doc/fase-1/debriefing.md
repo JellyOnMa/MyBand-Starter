@@ -2,11 +2,9 @@
 
 Schrijf in dit document de debriefing voor jouw MyBand project
 
-* Wat is volgens jou de opdracht?
-* Wat wordt er gevraagd?
-* Welke globale planning is er?
-* Wat zijn je eerste ideeen voor jouw project?
 
-*Hulp*
-* http://mi.hosts.ma-cloud.nl/iv/fase3/trainingen/briefing_debriefing/
-* [Voorbeeld structuur debriefing](http://members.quicknet.nl/p.devries1/OpzetDebriefing.pdf)
+Ik moet een project maken over een artiest die ik goed / leuk vind.
+De website moet content uit een database halen. en niet uit HTML zelf.
+De website moet alle documentatie hebben net als een echt project.
+
+Er moet hard worden gewerkt een alles moet goed bij gehouden worden.
