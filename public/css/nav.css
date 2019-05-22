@@ -1,0 +1,67 @@
+
+#navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 60px;
+  transition: 0.5s;
+}
+
+.nav_left {
+  float: left;
+  padding-left: 7em;
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.nav_left h3 {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  padding-left: 10px;
+}
+
+.nav_left a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.red {
+  color: red;
+}
+
+.nav_left img {
+  height: 25px;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-left: 10px;
+}
+
+.nav_right {
+  float: right;
+  padding: 1.3em;
+  padding-right: 7em;
+  font-family: 'Roboto', sans-serif;
+}
+
+.nav_right a {
+  padding-right: 3em;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 1.2em;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 60px;
+}

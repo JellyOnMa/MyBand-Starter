@@ -1,0 +1,36 @@
+/* imports */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background: url('../img/wallpaper2.jpg');
+}
+
+.header {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 66px;
+  height: 92vh;
+  width: 100vw;
+  background: url('../img/wallpaper.jpg')
+}
+
+.header h3 {
+  text-shadow: 0x 0px 10px rgba(0,0,0,.3);
+  text-transform: uppercase;
+  color: #fff;
+  padding-top: 32vh;
+  font-size: 3.5em;
+  text-align: center;
+  line-height: 0px;
+}
+
+.quote_header {
+  font-size: 1.3em;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  line-height: 0px;
+}
