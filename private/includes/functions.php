@@ -1,17 +1,25 @@
 <?php
 
-function dbConnect($config)
+require "db_config.php";
+
+function dbConnect()
 {
+    // Laad de instellingen
+    $config = require __DIR__ . '/db_config.php';
 
     try {
-        $dsn = 'mysql:host=' . $config['DB_HOST'] . ';dbname=' . $config['DB_NAME'];
+        $dsn = "mysql:host=" . $config['db_host'] . ';dbname=' . $config['db_name'];
+        $database = new PDO($dsn, $config['db_user'], $config['db_pass']);
 
-        $connection = new PDO($dsn, $config['DB_USER'], $config['DB_PASSWORD']);
+        $database->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+        $database->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);
 
-        return $connection;
+        return $database;
 
-    } catch (\PDOException $e) {
-        echo 'Fout bij maken van database verbinding: ' . $e->getMessage();
+    } catch (PDOException $fout) {
+        echo "Database connectie fout: " . $fout->getMessage();
+        exit;
     }
-
 }
+
+ ?>
