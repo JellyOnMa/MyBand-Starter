@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  background: url('../img/wallpaper2.jpg');
+  background: url('../images/wallpaper2.jpg');
 }
 
 .header {
@@ -14,7 +14,7 @@ body {
   padding-top: 66px;
   height: 92vh;
   width: 100vw;
-  background: url('../img/wallpaper.jpg')
+  background: url('../images/wallpaper.jpg')
 }
 
 .header h3 {

@@ -3,7 +3,7 @@
   <head>
 
     <?php
-    require __DIR__ . '/private/functions.php';
+    require  '../private/includes/functions.php';
     $database = dbConnect();
     ?>
 
@@ -33,7 +33,7 @@
     <div id="navbar">
       <div class="nav_left">
         <h3><a href="#index.php">Trippie <span class="red">Redd</span></a></h3>
-        <img src="img/1400.png" alt="">
+        <img src="images/1400.png" alt="">
       </div>
       <div class="nav_right">
         <a href="#">About</a>
