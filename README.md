@@ -1,11 +1,10 @@
 ## Trippie Rebb
 (URL) is een website van Jelle Stekelenburg waar gebruikers kunnen informatie en muziek kunnen vinden van de artiest Trippie Redd bedoeld voor mensen die van rap houden
-De website is enigszins te vergelijken met https://trippieredd.com/ (officiële website van artiest Trippie Redd) maar toch anders omdat (..uniek aspect..)
+De website is enigszins te vergelijken met https://trippieredd.com/ (officiële website van artiest Trippie Redd) maar toch anders omdat hier nieuws wordt werrgeven van de artiest
 
 ### Uniek aan dit concept is
 
- Dit is 1 van de weinige misschien wel de enigste website voor nieuws van alleen Trippie Redd
- De officiale site van de artiest heeft niet zoveel als wat deze site heeft qua info
+ Dit is de enigste website die 100% uit Trippie Redd nieuws bestaat. Dus er zijn geen concurenten
 
 
 #### Milestones 
