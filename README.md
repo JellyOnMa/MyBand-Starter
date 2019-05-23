@@ -2,11 +2,12 @@
 (URL) is een website van Jelle Stekelenburg waar gebruikers kunnen informatie en muziek kunnen vinden van de artiest Trippie Redd bedoeld voor mensen die van rap houden
 De website is enigszins te vergelijken met https://trippieredd.com/ (officiële website van artiest Trippie Redd) maar toch anders omdat (..uniek aspect..)
 
-### Uniek aan dit concept is
+## Uniek aan dit concept is
 
  Dit is 1 van de weinige misschien wel de enigste website voor nieuws van alleen Trippie Redd
  De officiale site van de artiest heeft niet zoveel als wat deze site heeft qua info
----
+
+
 #### Milestones 
 
 In het [Kwalificatiedossier] voor de opleiding Mediadeveloper staan een aantal *kerntaken* en *werkprocessen*.
