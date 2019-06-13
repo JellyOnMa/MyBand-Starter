@@ -1,10 +1,10 @@
-## Trippie Rebb
-(URL) is een website van Jelle Stekelenburg waar gebruikers kunnen informatie en muziek kunnen vinden van de artiest Trippie Redd bedoeld voor mensen die van rap houden
-De website is enigszins te vergelijken met https://trippieredd.com/ (officiële website van artiest Trippie Redd) maar toch anders omdat hier nieuws wordt werrgeven van de artiest
+## Juice WRLD
+(URL) is een website van Jelle Stekelenburg waar gebruikers kunnen informatie en muziek kunnen vinden van de artiest Juice WRLD bedoeld voor mensen die van rap houden
+De website is enigszins te vergelijken met https://juicewrld999.com/ (officiële website van artiest Juice WRLD) maar toch anders omdat hier nieuws wordt werrgeven van de artiest
 
 ### Uniek aan dit concept is
 
- Dit is de enigste website die 100% uit Trippie Redd nieuws bestaat. Dus er zijn geen concurenten
+ Dit is de enigste website die 100% uit Juice WRLD nieuws bestaat. Dus er zijn geen concurenten
 
 
 #### Milestones 
