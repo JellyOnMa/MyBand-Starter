@@ -28,8 +28,9 @@
   text-decoration: none;
 }
 
-.red {
-  color: red;
+.nav_kleur {
+  color: #f318ff;
+  text-decoration: none;
 }
 
 .nav_left img {
