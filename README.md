@@ -6,6 +6,8 @@ De website is enigszins te vergelijken met https://juicewrld999.com/ (officiële
 
  Dit is de enigste website die 100% uit Juice WRLD nieuws bestaat. Dus er zijn geen concurenten
 
+#### Waarom ik geen Search heb
+Ik heb geen search en of nieuws pagina omdat ik het niet werkende kreeg. dit komt mede omdat er manieren op mamd staan (10a) die niet werken in het Myband project.
 
 #### Milestones 
 
