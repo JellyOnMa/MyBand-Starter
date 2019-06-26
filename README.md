@@ -1,5 +1,5 @@
 ## Juice WRLD
-http://25534.hosts2.ma-cloud.nl/myband/public/contact is een website van Jelle Stekelenburg waar gebruikers kunnen informatie en muziek kunnen vinden van de artiest Juice WRLD bedoeld voor mensen die van rap houden
+http://25534.hosts2.ma-cloud.nl/myband/public/ is een website van Jelle Stekelenburg waar gebruikers kunnen informatie en muziek kunnen vinden van de artiest Juice WRLD bedoeld voor mensen die van rap houden
 De website is enigszins te vergelijken met https://juicewrld999.com/ (officiële website van artiest Juice WRLD) maar toch anders omdat hier nieuws wordt werrgeven van de artiest
 
 ### Uniek aan dit concept is
